@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Parte\ mas\ importante\ en\ la\ cual\ se\ denotan\ la\ mayoria\ de\ las\ funnciones\ que\ emplea\ el\ jugador\ asi\ \r\n\ como\ algunas\ de\ las\ funciones\ principales\ que\ interactuan\ junto\ con\ el\ jugador\ como\ el\ item,\ los\ enemigos,\ etc.\r\n\ en\ esta\ funcion\ se\ verifican\ los\ puntos\ que\ se\ tiene\ que\ estar\ tomando\ en\ cuenta\ para\ poder\ verificar\ el\ paso\ de\ los\ \r\n\ niveles\r\n\ asi\ como\ las\ validaciones\ de\ que\ si\ los\ enemigos\ estan\ tocando\ alguna\ bala\ del\ personaje\ o\ viceversa\r\n
+comment1.params=
+comment1.target=boolean\ atWorldEdge()
+comment1.text=\r\n\ Crea\ bandera\ para\ verificar\ si\ esta\ a\ las\ orillas\ del\ mundo\ \r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ Aqui\ se\ realizar\ la\ validacion\ de\ que\ si\ el\ personaje\ entra\ en\ contacto\ con\ alguna\ de\ las\ balas\ de\ personaje\r\n\ asi\ respetando\ la\ condicion\ de\ que\ este\ objeto\ solo\ se\ destruira\ solo\ si\ se\ tienen\ 3\ disparos\ el\ enemigo\r\n\ de\ lo\ contrario\ seguira\ afectando\ al\ personaje\ y\ al\ jugador\r\n\ \r\n\ los\ botones\ 'Actuar\ or\ 'Ejecutar'\ son\ presionados\ en\ el\ entorno.\r\n
+comment1.params=
+comment1.target=boolean\ atWorldEdge()
+numComments=2
